@@ -1,4 +1,4 @@
-# crosswordjs
+# crossword using JS
 English/PT-BR
 
 My purpose with this project is to create a crossword generator, using JavaScript (HTML and CSS for UI/UX), therefore, practicing using Git (and my english as well!).
